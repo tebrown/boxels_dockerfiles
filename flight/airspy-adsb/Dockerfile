@@ -12,7 +12,7 @@ ENV AIRSPY_G="-g"
 ENV AIRSPY_M="-m"
 ENV AIRSPY_P="-e"
 
-ARG AIRSPY_ADSB_URL="https://airspy.com/downloads/airspy_adsb-linux-arm.tgz"
+ARG AIRSPY_ADSB_URL="https://airspy.com/downloads/airspy_adsb-linux-x86_64.tgz"
 
 LABEL maintainer="kevin@welikeinc.com" \
       org.label-schema.name="airspy_adsb" \
